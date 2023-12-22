@@ -1,4 +1,5 @@
 # Deep Learning CNN Model To Predict Alzheimer Disease Using CT Scan of the Brain of Patient
+(this readme is a work in progress. )
 ## In This Model, The Model is Trained Using The CT Scan of Brain Image Dataset.
 ## Sample Images
 ### `AD Brain Scan`
